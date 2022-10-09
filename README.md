@@ -40,7 +40,7 @@ Because NASA's ozone layer mapping project's data analysis software was built to
 
 The project had been started in 1978, but it wasn't until 1985—and not by NASA—that the hole was found. After reviewing their data, NASA discovered the inaccuracy; this confirmed that there was a significant hole in the ozone layer. 
 
-## Two Katas
+## 2 Two Katas
 
 [2.1 String Utility](https://github.com/Benjo6/Test-Assignment-2/blob/master/BDD/Features/StringUtility.feature)
 
@@ -66,7 +66,7 @@ Tests:
 
 • Test Perfect Game
 
-## Investigation of Tools
+## 3 Investigation of Tools
 **3.1 Junit5**
 
 @Tag is a repeatable annotation that is used to declare a tag for the annotated test class or test method. 
